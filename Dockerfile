@@ -1,4 +1,4 @@
-# Use the official Nginx image
+
 FROM nginx:latest
 
 # Copy HTML files to Nginx's default directory
